@@ -1,155 +1,308 @@
 [
   {
-    "title": "Amazon - Nouveau stock de station de recharge disponible!",
+    "title": "Amazon - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
     "page": "ad",
-    "url": "https://amzn.to/3682UM4",
+    "url": "https://amzn.to/3iybVD4",
     "name": "Amazon",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Auchan - Nouveau stock de station de recharge disponible!",
+    "title": "Amazon - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
+    "page": "ad",
+    "url": "https://amzn.to/3sM73is",
+    "name": "Amazon",
+    "type": "Digitale"
+  },
+  {
+    "title": "Auchan - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/auchan.png",
     "page": "ad",
-    "url": "https://www.auchan.fr/sony-station-de-recharge-manette-ps5/p-c1316005",
+    "url": "https://www.auchan.fr/sony-console-ps5-edition-standard/p-c1315865",
     "name": "Auchan",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Cdiscount - Nouveau stock de station de recharge disponible!",
+    "title": "Auchan - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/auchan.png",
+    "page": "ad",
+    "url": "https://www.auchan.fr/sony-console-ps5-edition-digitale/p-c1315866",
+    "name": "Auchan",
+    "type": "Digitale"
+  },
+  {
+    "title": "Cdiscount - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/cdiscount.png",
     "page": "ad",
-    "url": "https://tidd.ly/3p3G27I",
+    "url": "https://tidd.ly/361es3H",
     "name": "Cdiscount",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Fnac - Nouveau stock de station de recharge disponible!",
+    "title": "Cdiscount - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/cdiscount.png",
+    "page": "ad",
+    "url": "https://tidd.ly/395ZWcX",
+    "name": "Cdiscount",
+    "type": "Digitale"
+  },
+  {
+    "title": "Fnac - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/fnac.png",
     "page": "ad",
-    "url": "https://tidd.ly/3qNOIzH",
+    "url": "https://tidd.ly/39M6xZb",
     "name": "Fnac",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Leclerc - Nouveau stock de station de recharge disponible!",
+    "title": "Fnac - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/fnac.png",
+    "page": "ad",
+    "url": "https://tidd.ly/3nX5WZv",
+    "name": "Fnac",
+    "type": "Digitale"
+  },
+  {
+    "title": "Leclerc - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/leclerc.png",
     "page": "ad",
-    "url": "https://www.e.leclerc/fp/station-de-rechargement-dualsense-ps5-0711719374107",
+    "url": "https://www.e.leclerc/cat/consoles-ps5",
     "name": "Leclerc",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Darty - Nouveau stock de station de recharge disponible!",
+    "title": "Leclerc - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/leclerc.png",
+    "page": "ad",
+    "url": "https://www.e.leclerc/cat/consoles-ps5",
+    "name": "Leclerc",
+    "type": "Digitale"
+  },
+  {
+    "title": "Darty - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/darty.jpeg",
     "page": "ad",
-    "url": "https://tidd.ly/2Y7l2kD",
+    "url": "https://tidd.ly/2Y3p65C",
     "name": "Darty",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Carrefour - Nouveau stock de station de recharge disponible!",
+    "title": "Darty - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/darty.jpeg",
+    "page": "ad",
+    "url": "https://tidd.ly/3p7NChT",
+    "name": "Darty",
+    "type": "Digitale"
+  },
+  {
+    "title": "Carrefour - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/carrefour.png",
     "page": "ad",
-    "url": "https://www.carrefour.fr/p/station-de-rechargement-dualsense-ps5-sony-interactive-0711719374107",
+    "url": "https://www.carrefour.fr/p/console-playstation-5-edition-standard-sony-interactive-0711719395201",
     "name": "Carrefour",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Boulanger - Nouveau stock de station de recharge disponible!",
+    "title": "Carrefour - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/carrefour.png",
+    "page": "ad",
+    "url": "https://www.carrefour.fr/p/console-playstation-5-edition-digitale-sony-interactive-0711719395300",
+    "name": "Carrefour",
+    "type": "Digitale"
+  },
+  {
+    "title": "Boulanger - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/boulanger.jpg",
     "page": "ad",
-    "url": "https://www.boulanger.com/ref/1152567",
+    "url": "https://www.boulanger.com/ref/1147567",
     "name": "Boulanger",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Ldlc - Nouveau stock de station de recharge disponible!",
+    "title": "Boulanger - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/boulanger.jpg",
+    "page": "ad",
+    "url": "https://www.boulanger.com/ref/1147568",
+    "name": "Boulanger",
+    "type": "Digitale"
+  },
+  {
+    "title": "Ldlc - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/ldlc.jpeg",
     "page": "ad",
-    "url": "https://www.ldlc.com/fiche/PB00387069.html",
+    "url": "https://www.ldlc.com/fiche/PB00386358.html",
     "name": "Ldlc",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Micromania - Nouveau stock de station de recharge disponible!",
+    "title": "Ldlc - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/ldlc.jpeg",
+    "page": "ad",
+    "url": "https://www.ldlc.com/fiche/PB00386365.html",
+    "name": "Ldlc",
+    "type": "Digitale"
+  },
+  {
+    "title": "Micromania - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/micromania.png",
     "page": "ad",
-    "url": "https://www.micromania.fr/chargeur-manette-dualsense-106102.html",
+    "url": "https://www.micromania.fr/playstation-5-105642.html",
     "name": "Micromania",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Cultura - Nouveau stock de station de recharge disponible!",
+    "title": "Micromania - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/micromania.png",
+    "page": "ad",
+    "url": "https://www.micromania.fr/playstation-5-alldigital-106097.html",
+    "name": "Micromania",
+    "type": "Digitale"
+  },
+  {
+    "title": "Cultura - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/cultura.png",
     "page": "ad",
-    "url": "https://www.cultura.com/station-de-recharge-dual-sense-pour-playstation-5-0711719374107.html",
+    "url": "https://www.cultura.com/jeux-video-consoles/playstation-5/consoles-ps5.html",
     "name": "Cultura",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Géant Casino - Nouveau stock de station de recharge disponible!",
+    "title": "Cultura - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/cultura.png",
+    "page": "ad",
+    "url": "https://www.cultura.com/jeux-video-consoles/playstation-5/consoles-ps5.html",
+    "name": "Cultura",
+    "type": "Digitale"
+  },
+  {
+    "title": "Géant Casino - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/geant.png",
     "page": "ad",
-    "url": "https://jouets.geantcasino.fr/produit/F-151240-309-_-console-et-acc-jeux-video/P-228683--station-de-recharge-pour-manettes-ps5-dual-sense/",
+    "url": "https://www.geantcasino.fr/pre-commande-ps5/",
     "name": "Géant Casino",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Rakuten - Nouveau stock de station de recharge disponible!",
+    "title": "Géant Casino - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/geant.png",
+    "page": "ad",
+    "url": "https://www.geantcasino.fr/pre-commande-ps5/",
+    "name": "Géant Casino",
+    "type": "Digitale"
+  },
+  {
+    "title": "Rakuten - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/rakuten.png",
     "page": "ad",
-    "url": "https://fr.shopping.rakuten.com/offer/buy/5478225671/station-de-rechargement-dualsense-blanche-white-pour-ps5-playstation-officiel.html",
+    "url": "https://fr.shopping.rakuten.com/offer/buy/5478214187/console-sony-ps5-edition-standard.html",
     "name": "Rakuten",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Amazon UK - Nouveau stock de station de recharge disponible!",
+    "title": "Rakuten - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/rakuten.png",
+    "page": "ad",
+    "url": "https://fr.shopping.rakuten.com/offer/buy/5478214186/console-sony-ps5-edition-digital.html",
+    "name": "Rakuten",
+    "type": "Digitale"
+  },
+  {
+    "title": "Amazon UK - Nouveau stock PS5 Standard disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
     "page": "ad",
-    "url": "https://amzn.to/2Nz7tIT",
+    "url": "https://amzn.to/3iHPCuU",
     "name": "Amazon UK",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Amazon ES - Nouveau stock de station de recharge disponible!",
+    "title": "Amazon UK - Nouveau stock PS5 Digitale disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
     "page": "ad",
-    "url": "https://amzn.to/39Xlurf",
+    "url": "https://amzn.to/2Y3RyEw",
+    "name": "Amazon UK",
+    "type": "Digitale"
+  },
+  {
+    "title": "Amazon ES - Nouveau stock PS5 Standard disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
+    "page": "ad",
+    "url": "https://amzn.to/3bQd4V6",
     "name": "Amazon ES",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Amazon DE - Nouveau stock de station de recharge disponible!",
+    "title": "Amazon ES - Nouveau stock PS5 Digitale disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
     "page": "ad",
-    "url": "https://amzn.to/3pdzxzz",
+    "url": "https://amzn.to/3oWZkvw",
+    "name": "Amazon ES",
+    "type": "Digitale"
+  },
+  {
+    "title": "Amazon DE - Nouveau stock PS5 Standard disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
+    "page": "ad",
+    "url": "https://amzn.to/38MRwqu",
     "name": "Amazon DE",
-    "type": "Chargeur"
+    "type": "Standard"
   },
   {
-    "title": "Amazon IT - Nouveau stock de station de recharge disponible!",
+    "title": "Amazon DE - Nouveau stock PS5 Digitale disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
     "page": "ad",
-    "url": "https://amzn.to/3c84vVN",
+    "url": "https://amzn.to/3oOZZPK",
+    "name": "Amazon DE",
+    "type": "Digitale"
+  },
+  {
+    "title": "Amazon IT - Nouveau stock PS5 Standard disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
+    "page": "ad",
+    "url": "https://amzn.to/38PvsMe",
     "name": "Amazon IT",
-    "type": "Chargeur"
+    "type": "Standard"
+  },
+  {
+    "title": "Amazon IT - Nouveau stock PS5 Digitale disponible!",
+    "body": "Dépêchez vous, les stocks s'arrachent...",
+    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
+    "page": "ad",
+    "url": "https://amzn.to/3nNG6r4",
+    "name": "Amazon IT",
+    "type": "Digitale"
   }
 ]
