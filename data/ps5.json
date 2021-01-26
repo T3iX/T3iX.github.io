@@ -112,7 +112,7 @@
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/carrefour.png",
     "page": "ad",
-    "url": "https://www.carrefour.fr/p/console-playstation-5-edition-standard-sony-interactive-0711719395201",
+    "url": "http://reservation.carrefour.fr/",
     "name": "Carrefour",
     "type": "Standard"
   },
@@ -121,7 +121,7 @@
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/carrefour.png",
     "page": "ad",
-    "url": "https://www.carrefour.fr/p/console-playstation-5-edition-digitale-sony-interactive-0711719395300",
+    "url": "http://reservation.carrefour.fr/",
     "name": "Carrefour",
     "type": "Digitale"
   },
