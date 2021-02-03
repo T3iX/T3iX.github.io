@@ -1,15 +1,5 @@
 [
   {
-    "title": "TEST",
-    "body": "Dépêchez vous, les stocks s'arrachent...",
-    "image_url": "https://t3ix.github.io/imagefr/amazon.png",
-    "page": "ad",
-    "url": "",
-    "name": "test",
-    "type": "Headset",
-    "webhook_url": "https://maker.ifttt.com/trigger/ps5s/with/key/K-0FZJaBBUcuRNPCf_ray"
-  },
-  {
     "title": "Amazon - Nouveau stock de casque disponible!",
     "body": "Dépêchez vous, les stocks s'arrachent...",
     "image_url": "https://t3ix.github.io/imagefr/amazon.png",
