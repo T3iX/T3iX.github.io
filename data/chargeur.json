@@ -6,7 +6,8 @@
     "page": "ad",
     "url": "https://amzn.to/3682UM4",
     "name": "Amazon",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Auchan - Nouveau stock de Station de recharge disponible!",
@@ -15,7 +16,8 @@
     "page": "ad",
     "url": "https://www.auchan.fr/sony-station-de-recharge-manette-ps5/p-c1316005",
     "name": "Auchan",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Cdiscount - Nouveau stock de Station de recharge disponible!",
@@ -24,7 +26,8 @@
     "page": "ad",
     "url": "https://tidd.ly/3p3G27I",
     "name": "Cdiscount",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Fnac - Nouveau stock de Station de recharge disponible!",
@@ -33,7 +36,8 @@
     "page": "ad",
     "url": "https://tidd.ly/3qNOIzH",
     "name": "Fnac",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Leclerc - Nouveau stock de Station de recharge disponible!",
@@ -42,7 +46,8 @@
     "page": "ad",
     "url": "https://www.e.leclerc/fp/station-de-rechargement-dualsense-ps5-0711719374107",
     "name": "Leclerc",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Darty - Nouveau stock de Station de recharge disponible!",
@@ -51,7 +56,8 @@
     "page": "ad",
     "url": "https://tidd.ly/2Y7l2kD",
     "name": "Darty",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Carrefour - Nouveau stock de Station de recharge disponible!",
@@ -60,7 +66,8 @@
     "page": "ad",
     "url": "https://www.carrefour.fr/p/station-de-rechargement-dualsense-ps5-sony-interactive-0711719374107",
     "name": "Carrefour",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Boulanger - Nouveau stock de Station de recharge disponible!",
@@ -69,7 +76,8 @@
     "page": "ad",
     "url": "https://bit.ly/3iVNhg3",
     "name": "Boulanger",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Ldlc - Nouveau stock de Station de recharge disponible!",
@@ -78,7 +86,8 @@
     "page": "ad",
     "url": "https://www.ldlc.com/fiche/PB00387069.html",
     "name": "Ldlc",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Micromania - Nouveau stock de Station de recharge disponible!",
@@ -87,7 +96,8 @@
     "page": "ad",
     "url": "https://www.micromania.fr/chargeur-manette-dualsense-106102.html",
     "name": "Micromania",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Cultura - Nouveau stock de Station de recharge disponible!",
@@ -96,7 +106,8 @@
     "page": "ad",
     "url": "https://www.cultura.com/station-de-recharge-dual-sense-pour-playstation-5-0711719374107.html",
     "name": "Cultura",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Géant Casino - Nouveau stock de Station de recharge disponible!",
@@ -105,7 +116,8 @@
     "page": "ad",
     "url": "https://jouets.geantcasino.fr/produit/F-151240-309-_-console-et-acc-jeux-video/P-228683--station-de-recharge-pour-manettes-ps5-dual-sense/",
     "name": "Géant Casino",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Rakuten - Nouveau stock de Station de recharge disponible!",
@@ -114,7 +126,8 @@
     "page": "ad",
     "url": "https://fr.shopping.rakuten.com/offer/buy/5478225671/station-de-rechargement-dualsense-blanche-white-pour-ps5-playstation-officiel.html",
     "name": "Rakuten",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Amazon UK - Nouveau stock de Station de recharge disponible!",
@@ -123,7 +136,8 @@
     "page": "ad",
     "url": "https://amzn.to/2Nz7tIT",
     "name": "Amazon UK",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Amazon ES - Nouveau stock de Station de recharge disponible!",
@@ -132,7 +146,8 @@
     "page": "ad",
     "url": "https://amzn.to/39Xlurf",
     "name": "Amazon ES",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Amazon DE - Nouveau stock de Station de recharge disponible!",
@@ -141,7 +156,8 @@
     "page": "ad",
     "url": "https://amzn.to/3pdzxzz",
     "name": "Amazon DE",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   },
   {
     "title": "Amazon IT - Nouveau stock de Station de recharge disponible!",
@@ -150,6 +166,7 @@
     "page": "ad",
     "url": "https://amzn.to/3c84vVN",
     "name": "Amazon IT",
-    "type": "Charging Station"
+    "type": "Charging Station",
+"webhook_url": ""
   }
 ]
